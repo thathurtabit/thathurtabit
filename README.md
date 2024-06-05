@@ -21,10 +21,9 @@
 ```
 
 # Hello
-## I'm Stephen
 
 I make web stuff.
 
 Here is my [website](https://ghosthorses.co.uk)
 
-Have some nice days
+Have a nice day or two.
