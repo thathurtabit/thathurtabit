@@ -1,16 +1,30 @@
-## Hi there 👋
+```
+                                 |\    /|
+                              ___| \,,/_/
+                           ---__/ \/    \
+                          __--/     (D)  \
+                          _ -/    (_      \
+                         // /       \_ /  -\
+   __-------_____--___--/           / \_ O o)
+  /                                 /   \__/
+ /                                 /
+||          )                   \_/\
+||         /              _      /  |
+| |      /--______      ___\    /\  :
+| /   __-  - _/   ------    |  |   \ \
+ |   -  -   /                | |     \ )
+ |  |   -  |                 | )     | |
+  | |    | |                 | |    | |
+  | |    < |                 | |   |_/
+  < |    /__\                <  \
+  /__\                       /___\
+```
 
-<!--
-**thathurtabit/thathurtabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello
+## I'm Stephen
 
-Here are some ideas to get you started:
+I make web stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is my [website](https://ghosthorses.co.uk)
+
+Have some nice days
